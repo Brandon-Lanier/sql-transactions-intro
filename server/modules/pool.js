@@ -1,7 +1,7 @@
 const pg = require('pg');
 
 const config = {
-  database: 'bank', 
+  database: 'bank_2', 
   host: 'localhost', 
   port: 5432, 
   max: 10, 
